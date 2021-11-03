@@ -22,7 +22,9 @@ A Colorado Board of elections employee has given you the following tasks to comp
     - Diana DeGette received 73.8% of the votes, 272,892 in total
     - Raymon Anthony Doane received 3.1% of the votes, 11,606 in total
 - WINNER OF THE ELECTION:
-  - Diana DeGette who received 73.8% of the total votes (272,892)!
+  - Diana DeGette who received 73.8% of the total votes (272,892)
+ 
+ ![election_results](Resources/election_results.png)
 
 ## Summary:
 With this code We were working on throughout all module 3 we are able to perform any voting data analysis, but not only voting data but any "winner" situation, for example if we want to analyse federal elections or office management election, we only have to change the variable county, but also if we want to know which adverse effect of a drug is more present, we only have to change "candidates variable" for "adverse effect" and "county" for "drugs", and so on  
